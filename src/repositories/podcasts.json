@@ -1,0 +1,72 @@
+[
+  {
+    "podcastName": "flow",
+    "episode": "CBUM - Flow #319",
+    "cover": "",
+    "videoId": "pQSuQmUfS30",
+    "category": ["saúde", "bodybuilder", "esporte"]
+  },
+  {
+    "podcastName": "talkShow",
+    "episode": "Interview with Elon Musk",
+    "cover": "",
+    "videoId": "abc123xyz",
+    "category": ["tecnologia", "negócios", "entrevista"]
+  },
+  {
+    "podcastName": "scienceExplorers",
+    "episode": "Exploring the Deep Sea",
+    "cover": "",
+    "videoId": "def456uvw",
+    "category": ["ciência", "exploração", "natureza"]
+  },
+  {
+    "podcastName": "motivationStation",
+    "episode": "Unlocking Your Full Potential",
+    "cover": "",
+    "videoId": "ghi789rst",
+    "category": ["motivação", "autoajuda", "desenvolvimento pessoal"]
+  },
+  {
+    "podcastName": "comedyHour",
+    "episode": "Stand-up Comedy Special",
+    "cover": "",
+    "videoId": "jkl012mno",
+    "category": ["comédia", "entretenimento", "humor"]
+  },
+  {
+    "podcastName": "historyBuff",
+    "episode": "The Fall of the Roman Empire",
+    "cover": "",
+    "videoId": "pqr345fgh",
+    "category": ["história", "civilizações", "educação"]
+  },
+  {
+    "podcastName": "foodLovers",
+    "episode": "Exploring Italian Cuisine",
+    "cover": "",
+    "videoId": "stu678ijk",
+    "category": ["gastronomia", "culinária", "viagem"]
+  },
+  {
+    "podcastName": "musicMasters",
+    "episode": "Jazz Legends: Miles Davis",
+    "cover": "",
+    "videoId": "vwx901lmn",
+    "category": ["música", "jazz", "história da música"]
+  },
+  {
+    "podcastName": "techGeeks",
+    "episode": "Latest Tech Gadgets Review",
+    "cover": "",
+    "videoId": "yz012pqr",
+    "category": ["tecnologia", "gadgets", "análise de produtos"]
+  },
+  {
+    "podcastName": "trueCrime",
+    "episode": "The Mysterious Case of Jack the Ripper",
+    "cover": "",
+    "videoId": "cde234abc",
+    "category": ["crime", "investigação", "mistério"]
+  }
+]
