@@ -17,20 +17,20 @@ App onde possa centralizar diferentes episódios podcasts separados por categori
 Retornar uma api rest (JSON): Nome do podcast, nome do episódio, imagem de capa, link, categoria
 
 ```
-[{
-  podcastName: "flow",
-  episode: "CBUM - Flow #319",
-  cover: "",
-  videoId: "pQSuQmUfS30",
-  link: "www.youtube.com/watch?v=pQSuQmUfS30",
-  category: ["saúde", "bodybuilder", "esporte"]
-},
-{
-  podcastName: "flow",
-  episode: "RUBENS BARRICHELLO - Flow #339",
-  cover: "",
-  link: "www.youtube.com/watch?v=pQSuQmUfS30",
-  category: ["esporte", "corrida"]
-},
+[
+    {
+    "podcastName": "flow",
+    "episode": "CBUM - Flow #319",
+    "cover": "",
+    "videoId": "pQSuQmUfS30",
+    "category": ["saúde", "bodybuilder", "esporte"]
+  },
+  {
+    "podcastName": "talkShow",
+    "episode": "Interview with Elon Musk",
+    "cover": "",
+    "videoId": "abc123xyz",
+    "category": ["tecnologia", "negócios", "entrevista"]
+  },
 ]
 ```
